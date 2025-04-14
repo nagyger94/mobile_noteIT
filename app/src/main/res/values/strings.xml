@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">noteIT</string>
+    <string name="project_name">noteIT</string>
+    <string name="slogan">A jegyzeteid otthona</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="user_password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="signUp">Regisztráció</string>
+    <string name="email">E-mail cím</string>
+    <string name="user_password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégsem</string>
+    <string name="registration">Regisztráció</string>
+    <string name="welcome">Isten hozott</string>
+    <string name="login_success">SIKERES BELÉPÉS</string>
+    <string name="logout">Kijelentkezés</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1030498792602",
+    "project_id": "noteit-d084a",
+    "storage_bucket": "noteit-d084a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030498792602:android:b632bf7be12232812fdb23",
+        "android_client_info": {
+          "package_name": "com.example.noteit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030498792602-dqlsetv320h3i22dciatq7ac61jjoar7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteit",
+            "certificate_hash": "60563a5cc614f604c131aaa13e98c5e505480f33"
+          }
+        },
+        {
+          "client_id": "1030498792602-loko3vqpd7vvs4an36sg5v48sc4hkk84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIjmgmxHgTCe5SS9dH-a2b7DxPe0tq9eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030498792602-loko3vqpd7vvs4an36sg5v48sc4hkk84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

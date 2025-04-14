@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NoteIT" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:background">@color/white</item>
+        <item name="colorPrimary">@color/accent</item>
+        <item name="android:textColor">@color/textColor</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowEnterTransition">@transition/transition_anim</item>
+        <item name="android:windowExitTransition">@transition/transition_anim</item>
+    </style>
+
+    <style name="Theme.NoteIT" parent="Base.Theme.NoteIT" />
+</resources>
