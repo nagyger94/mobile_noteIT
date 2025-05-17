@@ -13,4 +13,6 @@
     <string name="welcome">Isten hozott</string>
     <string name="login_success">SIKERES BELÉPÉS</string>
     <string name="logout">Kijelentkezés</string>
+    <string name="item_placeholder">Cím</string>
+    <string name="item_info_placeholder">Leírás</string>
 </resources>

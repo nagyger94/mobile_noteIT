@@ -14,7 +14,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 public class YourNotesActivity extends AppCompatActivity {
-    private ImageView likeVectorView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,15 +27,8 @@ public class YourNotesActivity extends AppCompatActivity {
             return insets;
         });
 
-        likeVectorView = findViewById(R.id.like_vector);
-        likeVectorView.animate()
-                .rotationY(360)
-                .setDuration(4000)
-                .setStartDelay(500)
-                .start();
+
     }
 
-    public void logout(View view) {
-        finish();
-    }
+
 }

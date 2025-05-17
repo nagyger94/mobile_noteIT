@@ -34,9 +34,13 @@ android {
 
 dependencies {
 
-    implementation(platform("com.google.firebase:firebase-bom:33.11.0"))
-    implementation("com.google.firebase:firebase-auth:23.2.0")
-    implementation("com.google.android.gms:play-services-auth:19.0.0")
+    implementation(platform(libs.firebase.bom))
+    implementation(libs.firebase.auth)
+    implementation(libs.play.services.auth)
+
+    implementation(libs.recyclerview)
+    implementation(libs.recyclerview.selection)
+    implementation(libs.cardview)
 
     implementation(libs.appcompat)
     implementation(libs.material)
